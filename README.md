@@ -1,1 +1,1 @@
-This is just a simple game which are made using React. 
+This is just a simple game which is made using React. 
